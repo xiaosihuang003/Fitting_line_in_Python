@@ -22,7 +22,7 @@ $$\frac{\partial L_{MSE}}{\partial a} = 0, \quad \frac{\partial L_{MSE}}{\partia
 
 1.  Clone the repository:
     ```bash
-    git clone <your-repo-url>
+    git clone https://github.com/xiaosihuang003/Fitting_line_in_Python.git
     cd Fitting_line_in_Python
     ```
 
